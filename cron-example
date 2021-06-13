@@ -1,0 +1,1 @@
+* * * * * root sh /usr/local/bin/task.sh >> /var/log/hoge.txt 2>&1
